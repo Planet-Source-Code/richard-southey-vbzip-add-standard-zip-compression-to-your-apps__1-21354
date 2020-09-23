@@ -1,0 +1,5 @@
+RichsoftVBZip = 13, 7, 546, 456, , 22, 22, 555, 470, C
+frmAbout = 88, 88, 621, 536, C, 91, 40, 624, 488, C
+ZipFileEntry = 40, 19, 573, 467, C
+ZipUtils = 58, 25, 591, 473, C
+ZipDll = 60, 67, 593, 515, C
